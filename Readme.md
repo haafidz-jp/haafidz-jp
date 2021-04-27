@@ -21,6 +21,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haafidz-jp&hide=scss,less,hack,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br>
+
 ![haafidz's GitHub stats](https://github-readme-stats.vercel.app/api?username=haafidz-jp&show_icons=true&theme=tokyonight)
 
  -------
