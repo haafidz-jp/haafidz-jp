@@ -1,8 +1,12 @@
-<!-- insert rudeus pervert face -->
+<!-- ctrl+K V -->
 # konnichiwa!!! ＼(＾▽＾)／ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-My name is Haafidz and I'm a Junior web developer. i'm from Indonesia, and currently studied at Gunadarma University. You can find me on Twitter and Instagram.
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/9X35p6pN7jufYEjiGA/giphy.gif" width="250"/>
+
+
+
+My name is Haafidz and I'm a Junior web developer. i'm from Indonesia, and currently studied at Gunadarma University. You can find me on Twitter and Instagram.
 
 ## &#x1F4BB; Technologies I Love
 * NextJS
@@ -10,10 +14,11 @@ My name is Haafidz and I'm a Junior web developer. i'm from Indonesia, and curre
 * NodeJS
 * CodeIgniter 4
 
-
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [haafidz.xyz](https://haafidz.xyz/). and it's still under construction.
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/0nxAqJ4JVcXRsyuqoD/giphy.gif" width="250"/>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -27,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
  -------
 Credits: [haafidz-jp](https://github.com/haafidz-jp)
 
-Last Edited on: 28/04/2021
+Last Edited on: 01/05/2021
 
 <!-- ＼(＾▽＾)／
 Hajimemashite Pesu desu~
