@@ -2,7 +2,7 @@
 # konnichiwa!!! ＼(＾▽＾)／ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/9X35p6pN7jufYEjiGA/giphy.gif" width="250"/>
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/9X35p6pN7jufYEjiGA/giphy.gif" width="250"/> -->
 
 
 
@@ -18,7 +18,7 @@ My name is Haafidz and I'm a Junior web developer. i'm from Indonesia, and curre
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [haafidz.xyz](https://haafidz.xyz/). and it's still under construction.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/0nxAqJ4JVcXRsyuqoD/giphy.gif" width="250"/>
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/0nxAqJ4JVcXRsyuqoD/giphy.gif" width="250"/> -->
 
 ## &#x1f4c8; GitHub Stats
 
